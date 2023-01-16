@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [my personal website and portfolio](https://edward70.github.io/)
-- 🌱 I’m currently learning calculus 2
+- 🔭 I’m currently working on building [data science](https://github.com/edward70/ipynb) skills
+- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about debugging a tricky runtime error
